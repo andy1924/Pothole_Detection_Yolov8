@@ -1,0 +1,10 @@
+
+path: D:\Pothole_Detection_Yolo\Pothole._Data
+train: train\images
+val: valid\images
+
+
+
+#classes
+names:
+  0: pothole
